@@ -69,7 +69,7 @@ This Repository is designed as a Workshop for integrating Chat-GPT into Vonage M
 	- we create an empty string buffer
 	- we loop trough the sequence array
 	 - In Loop:
-	   - if we add the next word in the array and the esulting buffer length is more than 640 characters
+	   - if we add the next word in the array and the resulting buffer length is more than 640 characters
 	     - then send the message
 	     - then empty the string buffer
 	    - add the next word to the buffer
