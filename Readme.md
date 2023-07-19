@@ -73,7 +73,7 @@ This Repository is designed as a Workshop for integrating Chat-GPT into Vonage M
 	     - then send the message
 	     - then empty the string buffer
 	    - add the next word to the buffer
-	  - When Loop ends: send whatever is left in the buffer once we are done looping through the array
+	 - When Loop ends: send whatever is left in the buffer once we are done looping through the array
 
 **Bonus** (if we have time, or just show quickly to show the power of Voice API)
 1. Create A Voice callback endpoint
